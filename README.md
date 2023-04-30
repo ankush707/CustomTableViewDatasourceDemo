@@ -1,4 +1,4 @@
-# simpleDemoMVVM
+# Custom Table View - with the help of blocks
 
 Custom Table View - with the help of blocks.
 
