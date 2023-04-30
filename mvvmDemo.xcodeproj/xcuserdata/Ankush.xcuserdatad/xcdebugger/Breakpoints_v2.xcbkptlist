@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99653A41-9FB4-4E5F-8213-6641940380DC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5173659E-AEC2-4C06-BA5E-5E6B038F403B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvvmDemo/New Group/APIRequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "LoginRequestAPI(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2E66C3F-8919-4A19-A0EF-077B09700512"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvvmDemo/New Group/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "LoginRequestAPI(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2E66C3F-8919-4A19-A0EF-077B09700512 - a53f6f955c2a45cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static mvvmDemo.APIMAnager.LoginRequestAPI(completion: (Swift.Optional&lt;mvvmDemo.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mvvmDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ankush/Desktop/Ankush/Demos/Ankush%20Demos/simpleDemoMVVM-main/mvvmDemo/New%20Group/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+               <Location
+                  uuid = "A2E66C3F-8919-4A19-A0EF-077B09700512 - a53f6f955c2a45cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static mvvmDemo.APIMAnager.LoginRequestAPI(completion: (Swift.Optional&lt;mvvmDemo.User&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "mvvmDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ankush/Desktop/Ankush/Demos/Ankush%20Demos/simpleDemoMVVM-main/mvvmDemo/New%20Group/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "2562">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AF6885D-E4CD-48BD-A302-168EC4472730"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvvmDemo/New Group/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "getPostString(params:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
